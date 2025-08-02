@@ -15,4 +15,4 @@
 
 # Social 💬
 <a href="https://www.instagram.com/kaikymsski/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/kaiky-massaki-ishibashi-063781267/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/kaiky-massaki-ishibashi-063781267/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
